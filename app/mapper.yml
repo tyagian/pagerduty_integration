@@ -1,0 +1,25 @@
+
+# Pagerduty to statuspage mapper 
+
+# PagerDuty  Top monitoring services
+dt7n9kp0tmw8: 
+  - TechOps_OBSE_Fluentd_Service
+  - TechOps_OBSE_Thanos_Service
+  - TechOps_OBSE_Alertmanager_Service
+  - Techops_OBSE_Exporter_Service
+  - TechOps_OBSE_Prometheus_Service
+  - TechOps_OBSE_Pushgateway_Service
+  - TechOps_OBSE_Grafana_Service
+  - TechOps_Sre_CM_Promethus-Service
+  - TechOps_Sre_ELK_DevOps_Service
+  - TechOps_OBSE_Fluentbit_Service
+  - TechOps_OBSE_Jaeger_Service
+  - TechOps_OBSE_Opensearch_Critical_Service
+  - TechOps_OBSE_Opensearch_Service
+  - TechOps_OBSE_Opensearch_warning_Service
+  - Techops_OBSE_PagerDuty_Service
+
+# test service
+hfhql4x3hr5d:
+  - test_service
+  - test_service

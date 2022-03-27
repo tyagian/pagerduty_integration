@@ -1,0 +1,14 @@
+{
+    "version": " ",
+    "app_name": "statuspager",
+    "environment_variables": {
+      "STATUSPAGE_PAGE": " ",
+      "STATUSPAGE_KEY": " ",
+      "PD_ACCOUNT_CHANGEME": " "
+    },
+    "stages": {
+      "dev": {
+        "api_gateway_stage": "api"
+      }
+    }
+  }
